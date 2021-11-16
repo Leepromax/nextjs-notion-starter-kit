@@ -4,12 +4,12 @@ module.exports = {
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: null,
+  rootNotionSpaceId: f24747559ae94971bc1c30c22e9b3492,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: ' Travel',
+  domain: https://extreme-forgery-767.notion.site/57367eb11dc94f59bca3ca7004444bf7?v=f24747559ae94971bc1c30c22e9b3492
+  author: 'Lee',
 
   // open graph metadata (optional)
   description: 'Example site description',
@@ -17,9 +17,9 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
+ mail: 'ch20210817@gmail.com',
   github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  telegram: '@Boom20211030',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
