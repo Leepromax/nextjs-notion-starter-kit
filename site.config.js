@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: ' Travel',
-  domain: https://extreme-forgery-767.notion.site/57367eb11dc94f59bca3ca7004444bf7?v=f24747559ae94971bc1c30c22e9b3492
+  domain:'https://extreme-forgery-767.notion.site/57367eb11dc94f59bca3ca7004444bf7?v=f24747559ae94971bc1c30c22e9b3492',
   author: 'Lee',
 
   // open graph metadata (optional)
