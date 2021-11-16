@@ -13,12 +13,9 @@ module.exports = {
 
   // open graph metadata (optional)
   description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-   Gmail: 'ch20210817@gmail.com',
-  github: 'null',
  twitter: '@Boom20211030',
 
   // default notion icon and cover images for site-wide consistency (optional)
